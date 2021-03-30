@@ -90,7 +90,7 @@
             </nav>            
         </div>
         <div class="w-full bg-gray-100 h-full"> 
-            <div class="m-10">
+            <div class="m-5">
                 <slot/>
             </div>
         </div>
